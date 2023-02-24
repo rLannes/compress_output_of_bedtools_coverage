@@ -54,6 +54,7 @@ chr2L   66482   66612   FBgn0067779_FBtr0306539_exon_1  0       +       150     
 ```
 
 
-
+#### Contribution, request and comment are welcome. 
+The code could run faster but being I/O bound it is not limiting.
 
 
